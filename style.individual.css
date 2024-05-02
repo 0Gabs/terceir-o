@@ -1,0 +1,70 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: "Arial", sans-serif;
+}
+
+.logo {
+    display: block;
+    margin: 20px auto;
+    width: 200px;
+}
+
+.titulo {
+    font-size: 36px;
+    text-align: center;
+}
+
+#individual {
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+.card {
+    background-color: #222;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.6);
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.card img {
+    border-radius: 10px;
+    max-width: 100%;
+}
+
+.procurado {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.nome {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.nome_real {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.nivel_de_poder {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.status {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.back-link {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #d60000;
+    font-weight: bold;
+}

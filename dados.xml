@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personagens>
+    <kombatente>
+        <id>1</id>
+        <nome>Liu Kang</nome>
+        <nivel_de_poder>10.000.000</nivel_de_poder>
+        <nome_real>Liu Kang</nome_real>
+        <status>Vivo</status>
+    </kombatente>
+    <kombatente>
+        <id>2</id>
+        <nome>Johnny Cage</nome>
+        <nivel_de_poder>8.500.000</nivel_de_poder>
+        <nome_real>Jonathan Carlton</nome_real>
+        <status>Vivo</status>
+    </kombatente>
+    <kombatente>
+        <id>3</id>
+        <nome>Scorpion</nome>
+        <nivel_de_poder>7.200.000</nivel_de_poder>
+        <nome_real>Hanzo Hasashi</nome_real>
+        <status>Vivo</status>
+    </kombatente>
+    <kombatente>
+        <id>4</id>
+        <nome>Sub-Zero</nome>
+        <nivel_de_poder>6.800.000</nivel_de_poder>
+        <nome_real>Bi-Han</nome_real>
+        <status>Vivo</status>
+    </kombatente>
+    <kombatente>
+        <id>5</id>
+        <nome>Sonya Blade</nome>
+        <nivel_de_poder>6.500.000</nivel_de_poder>
+        <nome_real>Sonya Blade</nome_real>
+        <status>Vivo</status>
+    </kombatente>
+    <kombatente>
+        <id>6</id>
+        <nome>Raiden</nome>
+        <nivel_de_poder>6.200.000</nivel_de_poder>
+        <nome_real>Raiden</nome_real>
+        <status>Vivo</status>
+    </kombatente>
+    <kombatente>
+        <id>7</id>
+        <nome>Kano</nome>
+        <nivel_de_poder>5.800.000</nivel_de_poder>
+        <nome_real>Kano</nome_real>
+        <status>Vivo</status>
+    </kombatente>
+    <kombatente>
+        <id>8</id>
+        <nome>Goro</nome>
+        <nivel_de_poder>5.500.000</nivel_de_poder>
+        <nome_real>Goro</nome_real>
+        <status>Vivo</status>
+    </kombatente>
+    <kombatente>
+        <id>9</id>
+        <nome>Kung Lao</nome>
+        <nivel_de_poder>5.200.000</nivel_de_poder>
+        <nome_real>Kung Lao</nome_real>
+        <status>Vivo</status>
+    </kombatente>
+    <kombatente>
+        <id>10</id>
+        <nome>Kitana</nome>
+        <nivel_de_poder>5.000.000</nivel_de_poder>
+        <nome_real>Kitana</nome_real>
+        <status>Vivo</status>
+    </kombatente>
+</personagens>
